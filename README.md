@@ -12,7 +12,8 @@
  * Voting asistance screen
  
 ### Authors: 
- * [Hazem Chaabi](https://www.facebook.com/saifbelaarbi/)
- * [Saif Eddinne Belaarbi](https://www.facebook.com/hazem.chaabi)
+ * [Hazem Chaabi](https://www.facebook.com/hazem.chaabi)
+ * [Saif Eddinne Belaarbi](https://www.facebook.com/saifbelaarbi/)
  * [Sami Ben Mabrouk](https://www.facebook.com/samibm9832)
  
+https://www.facebook.com/saifbelaarbi/
